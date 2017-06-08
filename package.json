@@ -6,9 +6,10 @@
     "start": "elf start",
     "build": "elf build"
   },
-  "devDependencies": {
-  },
   "dependencies": {
     "preloader.js": "^1"
+  },
+  "devDependencies": {
+    "postcss-plugin-px2rem": "^0.7.0"
   }
 }

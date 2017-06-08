@@ -1,12 +1,12 @@
 require('../index.html')
-require('../css/main.scss')
+require('../css/package.scss')
 
 var Preloader = require('preloader.js')
 
 /**
  * init
  */
-function init() {
+function init () {
   console.log('init ok')
 }
 
